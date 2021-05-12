@@ -1,0 +1,794 @@
+﻿Area Code,Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,continent
+9,Argentina,4002,Ammonium sulphate,5510,Production,2014,2014,tonnes,0,E,south America
+9,Argentina,4002,Ammonium sulphate,5510,Production,2015,2015,tonnes,0,E,south America
+9,Argentina,4002,Ammonium sulphate,5510,Production,2016,2016,tonnes,0,E,south America
+9,Argentina,4002,Ammonium sulphate,5510,Production,2017,2017,tonnes,0,E,south America
+9,Argentina,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,61073.94,E,south America
+9,Argentina,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,56000,Fm,south America
+9,Argentina,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2016,2016,tonnes,70424.24,E,south America
+9,Argentina,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2017,2017,tonnes,80046.06,E,south America
+9,Argentina,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,2000,Fm,south America
+9,Argentina,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,2000,Fm,south America
+9,Argentina,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2016,2016,tonnes,3000,Fm,south America
+9,Argentina,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2017,2017,tonnes,3300,Fm,south America
+9,Argentina,4012,Superphosphates above 35%,5510,Production,2013,2013,tonnes,0,E,south America
+9,Argentina,4012,Superphosphates above 35%,5510,Production,2014,2014,tonnes,0,E,south America
+9,Argentina,4012,Superphosphates above 35%,5510,Production,2015,2015,tonnes,0,E,south America
+9,Argentina,4012,Superphosphates above 35%,5510,Production,2016,2016,tonnes,0,E,south America
+9,Argentina,4012,Superphosphates above 35%,5510,Production,2017,2017,tonnes,0,E,south America
+9,Argentina,4013,"Superphosphates, other",5510,Production,2013,2013,tonnes,258000,Fm,south America
+9,Argentina,4013,"Superphosphates, other",5510,Production,2014,2014,tonnes,342000,Fm,south America
+9,Argentina,4013,"Superphosphates, other",5510,Production,2015,2015,tonnes,355000,Fm,south America
+9,Argentina,4013,"Superphosphates, other",5510,Production,2016,2016,tonnes,400000,Fm,south America
+9,Argentina,4013,"Superphosphates, other",5510,Production,2017,2017,tonnes,414000,Fm,south America
+9,Argentina,4001,Urea,5510,Production,2004,2004,tonnes,1364549,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2005,2005,tonnes,1249438,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2006,2006,tonnes,1432859,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2007,2007,tonnes,1019431,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2008,2008,tonnes,882497,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2009,2009,tonnes,1117876,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2010,2010,tonnes,941549,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2011,2011,tonnes,1159252,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2012,2012,tonnes,1179355,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2013,2013,tonnes,1370634,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2014,2014,tonnes,947736.67,E,south America
+9,Argentina,4001,Urea,5510,Production,2015,2015,tonnes,869000,Qm,south America
+9,Argentina,4001,Urea,5510,Production,2016,2016,tonnes,1092833.33,E,south America
+9,Argentina,4001,Urea,5510,Production,2017,2017,tonnes,1415100,Fm,south America
+9,Argentina,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2014,2014,tonnes,70889.39,E,south America
+9,Argentina,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2015,2015,tonnes,65000,Qm,south America
+9,Argentina,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2016,2016,tonnes,81742.42,E,south America
+9,Argentina,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2017,2017,tonnes,92910.61,E,south America
+19,Bolivia (Plurinational State of),4003,Ammonium nitrate (AN),5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4003,Ammonium nitrate (AN),5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4003,Ammonium nitrate (AN),5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4003,Ammonium nitrate (AN),5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4002,Ammonium sulphate,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4002,Ammonium sulphate,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4002,Ammonium sulphate,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4002,Ammonium sulphate,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4022,Diammonium phosphate (DAP),5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4022,Diammonium phosphate (DAP),5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4022,Diammonium phosphate (DAP),5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4022,Diammonium phosphate (DAP),5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4023,Monoammonium phosphate (MAP),5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4023,Monoammonium phosphate (MAP),5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4023,Monoammonium phosphate (MAP),5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4023,Monoammonium phosphate (MAP),5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4021,NPK fertilizers,5510,Production,2007,2007,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4021,NPK fertilizers,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4021,NPK fertilizers,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4021,NPK fertilizers,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4021,NPK fertilizers,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4024,Other NP compounds,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4024,Other NP compounds,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4024,Other NP compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4024,Other NP compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4027,PK compounds,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4027,PK compounds,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4027,PK compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4027,PK compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4025,Potassium nitrate,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4025,Potassium nitrate,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4025,Potassium nitrate,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4025,Potassium nitrate,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4012,Superphosphates above 35%,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4012,Superphosphates above 35%,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4012,Superphosphates above 35%,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4012,Superphosphates above 35%,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4013,"Superphosphates, other",5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4013,"Superphosphates, other",5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4013,"Superphosphates, other",5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4013,"Superphosphates, other",5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4001,Urea,5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4001,Urea,5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4001,Urea,5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4001,Urea,5510,Production,2014,2014,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2011,2011,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2012,2012,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2013,2013,tonnes,0,Qm,south America
+19,Bolivia (Plurinational State of),4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2002,2002,tonnes,1248009,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2003,2003,tonnes,1143059,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2004,2004,tonnes,1301483,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2005,2005,tonnes,1301083,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2006,2006,tonnes,1315421,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2007,2007,tonnes,1211604,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2008,2008,tonnes,1226059,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2009,2009,tonnes,1058540,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2010,2010,tonnes,1176526,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2011,2011,tonnes,1352598,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2012,2012,tonnes,1182014,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2013,2013,tonnes,1225655,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2014,2014,tonnes,1060074,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2015,2015,tonnes,1221803,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2016,2016,tonnes,1212560,Qm,south America
+21,Brazil,4007,"Ammonia, anhydrous",5510,Production,2017,2017,tonnes,911861,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2002,2002,tonnes,484283,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2003,2003,tonnes,416835,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2004,2004,tonnes,412139,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2005,2005,tonnes,506335,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2006,2006,tonnes,470518,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2007,2007,tonnes,462060,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2008,2008,tonnes,447057,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2009,2009,tonnes,455159,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2010,2010,tonnes,446983,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2011,2011,tonnes,457897,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2012,2012,tonnes,489560,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2013,2013,tonnes,420513,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2014,2014,tonnes,484655,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2015,2015,tonnes,515348,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2016,2016,tonnes,522786,Qm,south America
+21,Brazil,4003,Ammonium nitrate (AN),5510,Production,2017,2017,tonnes,407838,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2002,2002,tonnes,213165,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2003,2003,tonnes,223383,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2004,2004,tonnes,240824,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2005,2005,tonnes,219367,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2006,2006,tonnes,236449,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2007,2007,tonnes,258127,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2008,2008,tonnes,219265,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2009,2009,tonnes,226378,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2010,2010,tonnes,293137,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2011,2011,tonnes,314435,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2012,2012,tonnes,295846,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2013,2013,tonnes,253359,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2014,2014,tonnes,338110,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2015,2015,tonnes,275402,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2016,2016,tonnes,258482,Qm,south America
+21,Brazil,4002,Ammonium sulphate,5510,Production,2017,2017,tonnes,264208,Qm,south America
+21,Brazil,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2002,2002,tonnes,6126,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2003,2003,tonnes,4356,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2004,2004,tonnes,7071,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2005,2005,tonnes,217,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2006,2006,tonnes,4839,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2007,2007,tonnes,1768,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4022,Diammonium phosphate (DAP),5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4030,Fertilizers n.e.c.,5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4030,Fertilizers n.e.c.,5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4030,Fertilizers n.e.c.,5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4030,Fertilizers n.e.c.,5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4030,Fertilizers n.e.c.,5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2002,2002,tonnes,888375,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2003,2003,tonnes,1010317,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2004,2004,tonnes,966679,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2005,2005,tonnes,913866,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2006,2006,tonnes,1098239,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2007,2007,tonnes,1043301,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2008,2008,tonnes,1130097,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2009,2009,tonnes,1065910,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2010,2010,tonnes,1047536,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2011,2011,tonnes,952634,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2012,2012,tonnes,1344694,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2013,2013,tonnes,1305765,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2014,2014,tonnes,1173197,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2015,2015,tonnes,1220400,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2016,2016,tonnes,1153823,Qm,south America
+21,Brazil,4023,Monoammonium phosphate (MAP),5510,Production,2017,2017,tonnes,1184560,Qm,south America
+21,Brazil,4021,NPK fertilizers,5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4021,NPK fertilizers,5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4021,NPK fertilizers,5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4021,NPK fertilizers,5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4021,NPK fertilizers,5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4026,Other NK compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4026,Other NK compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4026,Other NK compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4026,Other NK compounds,5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4026,Other NK compounds,5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2004,2004,tonnes,276489,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2005,2005,tonnes,286220,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2006,2006,tonnes,285117,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2007,2007,tonnes,280673,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2008,2008,tonnes,222901,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2009,2009,tonnes,238260,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2010,2010,tonnes,237775,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2011,2011,tonnes,207628,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2012,2012,tonnes,180716,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2013,2013,tonnes,163581,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2014,2014,tonnes,151622,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2015,2015,tonnes,140547,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2016,2016,tonnes,160956,Qm,south America
+21,Brazil,4024,Other NP compounds,5510,Production,2017,2017,tonnes,144271,Qm,south America
+21,Brazil,4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2013,2013,tonnes,50791,Qm,south America
+21,Brazil,4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,46956,Qm,south America
+21,Brazil,4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,63674,Qm,south America
+21,Brazil,4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2016,2016,tonnes,100107,Qm,south America
+21,Brazil,4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2017,2017,tonnes,117463,Qm,south America
+21,Brazil,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2002,2002,tonnes,4984772,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2003,2003,tonnes,5213482,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2004,2004,tonnes,5660587,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2005,2005,tonnes,5588265,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2006,2006,tonnes,5754141,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2007,2007,tonnes,6057579,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2008,2008,tonnes,6292826,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2009,2009,tonnes,5913835,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2010,2010,tonnes,5587566,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2011,2011,tonnes,6022722,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2012,2012,tonnes,6019758,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2013,2013,tonnes,5940568,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2014,2014,tonnes,5792980,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2015,2015,tonnes,5439334,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2016,2016,tonnes,5110514,Qm,south America
+21,Brazil,4011,Phosphate rock,5510,Production,2017,2017,tonnes,5343992,Qm,south America
+21,Brazil,4027,PK compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4027,PK compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4027,PK compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4027,PK compounds,5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4027,PK compounds,5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2002,2002,tonnes,627217,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2003,2003,tonnes,650536,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2004,2004,tonnes,640473,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2005,2005,tonnes,640852,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2006,2006,tonnes,731401,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2007,2007,tonnes,670969,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2008,2008,tonnes,606707,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2009,2009,tonnes,716635,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2010,2010,tonnes,664214,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2011,2011,tonnes,619346,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2012,2012,tonnes,548533,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2013,2013,tonnes,492152,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2014,2014,tonnes,492355,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2015,2015,tonnes,481269,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2016,2016,tonnes,499082,Qm,south America
+21,Brazil,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2017,2017,tonnes,484877,Qm,south America
+21,Brazil,4025,Potassium nitrate,5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4025,Potassium nitrate,5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4025,Potassium nitrate,5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4025,Potassium nitrate,5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4025,Potassium nitrate,5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4005,Sodium nitrate,5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4005,Sodium nitrate,5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4005,Sodium nitrate,5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4005,Sodium nitrate,5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4005,Sodium nitrate,5510,Production,2017,2017,tonnes,0,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2003,2003,tonnes,530498,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2004,2004,tonnes,650021,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2005,2005,tonnes,670083,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2006,2006,tonnes,742791,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2007,2007,tonnes,910047,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2008,2008,tonnes,808312,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2009,2009,tonnes,801369,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2010,2010,tonnes,942774,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2011,2011,tonnes,914369,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2012,2012,tonnes,1007860,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2013,2013,tonnes,936367,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2014,2014,tonnes,915823,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2015,2015,tonnes,859375,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2016,2016,tonnes,854528,Qm,south America
+21,Brazil,4012,Superphosphates above 35%,5510,Production,2017,2017,tonnes,953790,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2003,2003,tonnes,5307384,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2004,2004,tonnes,5628486,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2005,2005,tonnes,4707320,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2006,2006,tonnes,4540965,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2007,2007,tonnes,5767188,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2008,2008,tonnes,5056130,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2009,2009,tonnes,4553714,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2010,2010,tonnes,5412780,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2011,2011,tonnes,5888603,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2012,2012,tonnes,5448432,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2013,2013,tonnes,4931309,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2014,2014,tonnes,4626220,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2015,2015,tonnes,4779825,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2016,2016,tonnes,4758855,Qm,south America
+21,Brazil,4013,"Superphosphates, other",5510,Production,2017,2017,tonnes,4255164,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2002,2002,tonnes,1284962,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2003,2003,tonnes,1193568,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2004,2004,tonnes,1195504,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2005,2005,tonnes,1294662,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2006,2006,tonnes,1411673,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2007,2007,tonnes,1277753,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2008,2008,tonnes,1182484,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2009,2009,tonnes,1117345,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2010,2010,tonnes,1269301,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2011,2011,tonnes,1463372,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2012,2012,tonnes,1340811,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2013,2013,tonnes,1357412,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2014,2014,tonnes,1107156,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2015,2015,tonnes,1423005,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2016,2016,tonnes,1327214,Qm,south America
+21,Brazil,4001,Urea,5510,Production,2017,2017,tonnes,836754,Qm,south America
+21,Brazil,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2013,2013,tonnes,0,Qm,south America
+21,Brazil,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2014,2014,tonnes,0,Qm,south America
+21,Brazil,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2015,2015,tonnes,0,Qm,south America
+21,Brazil,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2016,2016,tonnes,0,Qm,south America
+21,Brazil,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2017,2017,tonnes,0,Qm,south America
+40,Chile,4003,Ammonium nitrate (AN),5510,Production,2004,2004,tonnes,364668,Qm,south America
+40,Chile,4003,Ammonium nitrate (AN),5510,Production,2005,2005,tonnes,396212,Qm,south America
+40,Chile,4003,Ammonium nitrate (AN),5510,Production,2006,2006,tonnes,353073.5,Qm,south America
+40,Chile,4030,Fertilizers n.e.c.,5510,Production,2016,2016,tonnes,0,Qm,south America
+40,Chile,4011,Phosphate rock,5510,Production,2013,2013,tonnes,14956,Qm,south America
+40,Chile,4011,Phosphate rock,5510,Production,2014,2014,tonnes,22859,Qm,south America
+40,Chile,4011,Phosphate rock,5510,Production,2015,2015,tonnes,19549,Qm,south America
+40,Chile,4011,Phosphate rock,5510,Production,2016,2016,tonnes,6205,Qm,south America
+40,Chile,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2005,2005,tonnes,753994,Qm,south America
+40,Chile,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2006,2006,tonnes,662315,Qm,south America
+40,Chile,4025,Potassium nitrate,5510,Production,2006,2006,tonnes,16882,Qm,south America
+40,Chile,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2005,2005,tonnes,151757,Qm,south America
+40,Chile,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2006,2006,tonnes,158308,Qm,south America
+40,Chile,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2006,2006,tonnes,22000,Qm,south America
+44,Colombia,4007,"Ammonia, anhydrous",5510,Production,2013,2013,tonnes,547,Qm,south America
+44,Colombia,4007,"Ammonia, anhydrous",5510,Production,2014,2014,tonnes,791,Qm,south America
+44,Colombia,4007,"Ammonia, anhydrous",5510,Production,2015,2015,tonnes,165,Qm,south America
+44,Colombia,4003,Ammonium nitrate (AN),5510,Production,2005,2005,tonnes,84770,Qm,south America
+44,Colombia,4003,Ammonium nitrate (AN),5510,Production,2006,2006,tonnes,1107,Qm,south America
+44,Colombia,4003,Ammonium nitrate (AN),5510,Production,2007,2007,tonnes,56728,Qm,south America
+44,Colombia,4002,Ammonium sulphate,5510,Production,2005,2005,tonnes,91640,Qm,south America
+44,Colombia,4002,Ammonium sulphate,5510,Production,2006,2006,tonnes,19000,Qm,south America
+44,Colombia,4002,Ammonium sulphate,5510,Production,2007,2007,tonnes,85965.35,Qm,south America
+44,Colombia,4002,Ammonium sulphate,5510,Production,2013,2013,tonnes,41861,Qm,south America
+44,Colombia,4002,Ammonium sulphate,5510,Production,2014,2014,tonnes,88892,Qm,south America
+44,Colombia,4002,Ammonium sulphate,5510,Production,2015,2015,tonnes,100808,Qm,south America
+44,Colombia,4002,Ammonium sulphate,5510,Production,2016,2016,tonnes,92504,Qm,south America
+44,Colombia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2007,2007,tonnes,55.05,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2005,2005,tonnes,37613,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2006,2006,tonnes,81222,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2007,2007,tonnes,77055.56,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2008,2008,tonnes,31748.86,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2009,2009,tonnes,47547,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2010,2010,tonnes,57609,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2011,2011,tonnes,58964,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2012,2012,tonnes,57476,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2013,2013,tonnes,64659,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2014,2014,tonnes,46753,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2015,2015,tonnes,56719,Qm,south America
+44,Colombia,4022,Diammonium phosphate (DAP),5510,Production,2016,2016,tonnes,56294,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2005,2005,tonnes,604,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2006,2006,tonnes,3366,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2007,2007,tonnes,2975.66,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2008,2008,tonnes,1939.97,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2009,2009,tonnes,5401,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2010,2010,tonnes,5343,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2011,2011,tonnes,5479,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2012,2012,tonnes,9651,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2013,2013,tonnes,11567,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2014,2014,tonnes,8912,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2015,2015,tonnes,15943,Qm,south America
+44,Colombia,4023,Monoammonium phosphate (MAP),5510,Production,2016,2016,tonnes,20187,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2005,2005,tonnes,388236,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2006,2006,tonnes,757255,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2007,2007,tonnes,772709,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2008,2008,tonnes,621587.29,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2009,2009,tonnes,589334,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2010,2010,tonnes,668071,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2011,2011,tonnes,813976,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2012,2012,tonnes,798204,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2013,2013,tonnes,769493,Qm,south America
+44,Colombia,4021,NPK fertilizers,5510,Production,2014,2014,tonnes,707152,Qm,south America
+44,Colombia,4026,Other NK compounds,5510,Production,2013,2013,tonnes,1237,Qm,south America
+44,Colombia,4026,Other NK compounds,5510,Production,2014,2014,tonnes,395,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2005,2005,tonnes,4085,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2006,2006,tonnes,16854,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2007,2007,tonnes,18631.13,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2009,2009,tonnes,30686,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2010,2010,tonnes,24654,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2011,2011,tonnes,34150,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2012,2012,tonnes,37690,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2013,2013,tonnes,28634,Qm,south America
+44,Colombia,4024,Other NP compounds,5510,Production,2014,2014,tonnes,21437,Qm,south America
+44,Colombia,4011,Phosphate rock,5510,Production,2013,2013,tonnes,24982,Qm,south America
+44,Colombia,4011,Phosphate rock,5510,Production,2014,2014,tonnes,24982,Fm,south America
+44,Colombia,4011,Phosphate rock,5510,Production,2015,2015,tonnes,24982,Fm,south America
+44,Colombia,4011,Phosphate rock,5510,Production,2016,2016,tonnes,24982,Fm,south America
+44,Colombia,4027,PK compounds,5510,Production,2005,2005,tonnes,144,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2006,2006,tonnes,754,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2007,2007,tonnes,649.61,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2008,2008,tonnes,485.87,Fb,south America
+44,Colombia,4027,PK compounds,5510,Production,2009,2009,tonnes,686,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2010,2010,tonnes,468,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2011,2011,tonnes,436,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2012,2012,tonnes,570,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2013,2013,tonnes,710,Qm,south America
+44,Colombia,4027,PK compounds,5510,Production,2014,2014,tonnes,1060,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2005,2005,tonnes,115728,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2006,2006,tonnes,140078,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2007,2007,tonnes,157969.25,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2008,2008,tonnes,132753.73,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2009,2009,tonnes,110925,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2010,2010,tonnes,141257,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2011,2011,tonnes,157340,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2012,2012,tonnes,147003,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2013,2013,tonnes,137963,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2014,2014,tonnes,122073,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2015,2015,tonnes,160672,Qm,south America
+44,Colombia,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2016,2016,tonnes,177849,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2006,2006,tonnes,5624,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2007,2007,tonnes,5430.78,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2008,2008,tonnes,4327.96,Fb,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2009,2009,tonnes,2583,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2010,2010,tonnes,1527,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2011,2011,tonnes,681,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2012,2012,tonnes,535,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2013,2013,tonnes,1237,Qm,south America
+44,Colombia,4025,Potassium nitrate,5510,Production,2014,2014,tonnes,394.74,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2005,2005,tonnes,5345,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2006,2006,tonnes,7328,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2007,2007,tonnes,7674.33,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2008,2008,tonnes,7392.42,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2009,2009,tonnes,6001,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2010,2010,tonnes,5502,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2011,2011,tonnes,5760,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2012,2012,tonnes,9249,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2013,2013,tonnes,10742,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2014,2014,tonnes,6492,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2015,2015,tonnes,5480,Qm,south America
+44,Colombia,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2016,2016,tonnes,4255,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2005,2005,tonnes,4276,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2006,2006,tonnes,3032,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2007,2007,tonnes,2246,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2008,2008,tonnes,1.45,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2009,2009,tonnes,9,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2010,2010,tonnes,2,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2011,2011,tonnes,317,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2012,2012,tonnes,350,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2013,2013,tonnes,269,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2014,2014,tonnes,168,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2015,2015,tonnes,1015,Qm,south America
+44,Colombia,4012,Superphosphates above 35%,5510,Production,2016,2016,tonnes,1573,Qm,south America
+44,Colombia,4013,"Superphosphates, other",5510,Production,2005,2005,tonnes,3584,Qm,south America
+44,Colombia,4013,"Superphosphates, other",5510,Production,2006,2006,tonnes,2831,Qm,south America
+44,Colombia,4013,"Superphosphates, other",5510,Production,2007,2007,tonnes,0,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2005,2005,tonnes,200139,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2006,2006,tonnes,291750,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2007,2007,tonnes,281779,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2008,2008,tonnes,225317,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2009,2009,tonnes,356472,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2010,2010,tonnes,291002,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2011,2011,tonnes,291429,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2012,2012,tonnes,307815,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2013,2013,tonnes,282610,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2014,2014,tonnes,270519,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2015,2015,tonnes,293112,Qm,south America
+44,Colombia,4001,Urea,5510,Production,2016,2016,tonnes,294637,Qm,south America
+44,Colombia,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2005,2005,tonnes,2328,Qm,south America
+44,Colombia,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2006,2006,tonnes,4434,Qm,south America
+44,Colombia,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2007,2007,tonnes,1677.99,Qm,south America
+58,Ecuador,4007,"Ammonia, anhydrous",5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4003,Ammonium nitrate (AN),5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4002,Ammonium sulphate,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4022,Diammonium phosphate (DAP),5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4023,Monoammonium phosphate (MAP),5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4021,NPK fertilizers,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4026,Other NK compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4024,Other NP compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4018,"Other potassic fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4011,Phosphate rock,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4027,PK compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4025,Potassium nitrate,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4005,Sodium nitrate,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4012,Superphosphates above 35%,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4013,"Superphosphates, other",5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4001,Urea,5510,Production,2015,2015,tonnes,0,Qm,south America
+58,Ecuador,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4003,Ammonium nitrate (AN),5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4002,Ammonium sulphate,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4022,Diammonium phosphate (DAP),5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4023,Monoammonium phosphate (MAP),5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2009,2009,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4021,NPK fertilizers,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4024,Other NP compounds,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4011,Phosphate rock,5510,Production,2010,2010,tonnes,791000,Fm,south America
+170,Peru,4011,Phosphate rock,5510,Production,2011,2011,tonnes,2540000,Fm,south America
+170,Peru,4011,Phosphate rock,5510,Production,2012,2012,tonnes,3210000,Fm,south America
+170,Peru,4011,Phosphate rock,5510,Production,2013,2013,tonnes,2580000,Fm,south America
+170,Peru,4011,Phosphate rock,5510,Production,2014,2014,tonnes,3800000,Fm,south America
+170,Peru,4011,Phosphate rock,5510,Production,2015,2015,tonnes,3880000,Fm,south America
+170,Peru,4011,Phosphate rock,5510,Production,2016,2016,tonnes,3850000,Fm,south America
+170,Peru,4027,PK compounds,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4027,PK compounds,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4027,PK compounds,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4027,PK compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4027,PK compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4027,PK compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4027,PK compounds,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4027,PK compounds,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4025,Potassium nitrate,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4012,Superphosphates above 35%,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2002,2002,tonnes,2538,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2003,2003,tonnes,2458,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2004,2004,tonnes,1911,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2005,2005,tonnes,1676,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2006,2006,tonnes,1304,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4013,"Superphosphates, other",5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4001,Urea,5510,Production,2017,2017,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2010,2010,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2011,2011,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2012,2012,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2013,2013,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2014,2014,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2015,2015,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2016,2016,tonnes,0,Qm,south America
+170,Peru,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2017,2017,tonnes,0,Qm,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2002,2002,tonnes,4007893,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2003,2003,tonnes,4348993,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2004,2004,tonnes,4656459,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2005,2005,tonnes,5184832,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2006,2006,tonnes,5114464,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2007,2007,tonnes,5193988,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2008,2008,tonnes,4978367,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2009,2009,tonnes,5493794,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2010,2010,tonnes,5553242,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2011,2011,tonnes,5098927,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2012,2012,tonnes,4887956,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2013,2013,tonnes,4639796,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2014,2014,tonnes,4727205,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2015,2015,tonnes,4905320,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2016,2016,tonnes,4914322,W,south America
+220,Trinidad and Tobago,4007,"Ammonia, anhydrous",5510,Production,2017,2017,tonnes,5041049,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2002,2002,tonnes,674398,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2003,2003,tonnes,647196,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2004,2004,tonnes,619432,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2005,2005,tonnes,748112,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2006,2006,tonnes,693408,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2007,2007,tonnes,709512,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2008,2008,tonnes,636000,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2009,2009,tonnes,682860,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2010,2010,tonnes,708760,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2011,2011,tonnes,616247,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2012,2012,tonnes,564892,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2013,2013,tonnes,489610,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2014,2014,tonnes,441817,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2015,2015,tonnes,547400,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2016,2016,tonnes,607367,W,south America
+220,Trinidad and Tobago,4001,Urea,5510,Production,2017,2017,tonnes,553996,W,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2010,2010,tonnes,1277839,W,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2011,2011,tonnes,1437713,W,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2012,2012,tonnes,1367881,W,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2013,2013,tonnes,1316811.5,E,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2014,2014,tonnes,1265742,W,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2015,2015,tonnes,1386591,W,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2016,2016,tonnes,1235923,W,south America
+220,Trinidad and Tobago,4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2017,2017,tonnes,1272128,W,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2007,2007,tonnes,71000,Qm,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2008,2008,tonnes,48000,Qm,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2009,2009,tonnes,50000,Qm,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2010,2010,tonnes,110000,Qm,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2013,2013,tonnes,100000,Fm,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2014,2014,tonnes,100000,Fm,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2015,2015,tonnes,100000,Fm,south America
+234,Uruguay,4013,"Superphosphates, other",5510,Production,2016,2016,tonnes,100000,Fm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2006,2006,tonnes,1453000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2007,2007,tonnes,1233000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2008,2008,tonnes,1428000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2009,2009,tonnes,933000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2010,2010,tonnes,909000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2011,2011,tonnes,1027123,E,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2012,2012,tonnes,1145246,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2013,2013,tonnes,919891,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2014,2014,tonnes,995474,Qm,south America
+236,Venezuela (Bolivarian Republic of),4007,"Ammonia, anhydrous",5510,Production,2015,2015,tonnes,811914,Qm,south America
+236,Venezuela (Bolivarian Republic of),4003,Ammonium nitrate (AN),5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4003,Ammonium nitrate (AN),5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4003,Ammonium nitrate (AN),5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2006,2006,tonnes,87000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2007,2007,tonnes,64000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2008,2008,tonnes,70000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2009,2009,tonnes,89000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2010,2010,tonnes,87000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2011,2011,tonnes,69475,E,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2012,2012,tonnes,51950,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2013,2013,tonnes,12185,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2014,2014,tonnes,33034.66,Qm,south America
+236,Venezuela (Bolivarian Republic of),4002,Ammonium sulphate,5510,Production,2015,2015,tonnes,22358,Qm,south America
+236,Venezuela (Bolivarian Republic of),4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4022,Diammonium phosphate (DAP),5510,Production,2013,2013,tonnes,3528.94,Qm,south America
+236,Venezuela (Bolivarian Republic of),4022,Diammonium phosphate (DAP),5510,Production,2014,2014,tonnes,2708.97,E,south America
+236,Venezuela (Bolivarian Republic of),4022,Diammonium phosphate (DAP),5510,Production,2015,2015,tonnes,1889,Qm,south America
+236,Venezuela (Bolivarian Republic of),4030,Fertilizers n.e.c.,5510,Production,2012,2012,tonnes,2080,Qm,south America
+236,Venezuela (Bolivarian Republic of),4030,Fertilizers n.e.c.,5510,Production,2013,2013,tonnes,4842.69,Qm,south America
+236,Venezuela (Bolivarian Republic of),4030,Fertilizers n.e.c.,5510,Production,2014,2014,tonnes,7910.84,Qm,south America
+236,Venezuela (Bolivarian Republic of),4030,Fertilizers n.e.c.,5510,Production,2015,2015,tonnes,7911,Qm,south America
+236,Venezuela (Bolivarian Republic of),4023,Monoammonium phosphate (MAP),5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4023,Monoammonium phosphate (MAP),5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4023,Monoammonium phosphate (MAP),5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2006,2006,tonnes,246000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2007,2007,tonnes,324000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2008,2008,tonnes,364000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2009,2009,tonnes,316000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2010,2010,tonnes,243000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2011,2011,tonnes,224833.5,E,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2012,2012,tonnes,206667,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2013,2013,tonnes,109466,Qm,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2014,2014,tonnes,136345.5,E,south America
+236,Venezuela (Bolivarian Republic of),4021,NPK fertilizers,5510,Production,2015,2015,tonnes,163225,Qm,south America
+236,Venezuela (Bolivarian Republic of),4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4008,"Other nitrogenous fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4026,Other NK compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4026,Other NK compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4026,Other NK compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2006,2006,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2007,2007,tonnes,7000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2008,2008,tonnes,1000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2009,2009,tonnes,29000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2010,2010,tonnes,19000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2011,2011,tonnes,13788,E,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2012,2012,tonnes,8576,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2013,2013,tonnes,2269.11,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2014,2014,tonnes,291.98,Qm,south America
+236,Venezuela (Bolivarian Republic of),4024,Other NP compounds,5510,Production,2015,2015,tonnes,1281,Qm,south America
+236,Venezuela (Bolivarian Republic of),4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4014,"Other phosphatic fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4018,"Other potassic fertilizers, n.e.c.",5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4018,"Other potassic fertilizers, n.e.c.",5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4018,"Other potassic fertilizers, n.e.c.",5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2006,2006,tonnes,220000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2007,2007,tonnes,232000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2008,2008,tonnes,232000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2009,2009,tonnes,351000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2010,2010,tonnes,138000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2011,2011,tonnes,148717.5,E,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2012,2012,tonnes,159435,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2013,2013,tonnes,106354,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2014,2014,tonnes,35820,Qm,south America
+236,Venezuela (Bolivarian Republic of),4011,Phosphate rock,5510,Production,2015,2015,tonnes,31112,Qm,south America
+236,Venezuela (Bolivarian Republic of),4027,PK compounds,5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4027,PK compounds,5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4027,PK compounds,5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4016,Potassium chloride (muriate of potash) (MOP),5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4025,Potassium nitrate,5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4025,Potassium nitrate,5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4025,Potassium nitrate,5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4017,Potassium sulphate (sulphate of potash) (SOP),5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4005,Sodium nitrate,5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4005,Sodium nitrate,5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4005,Sodium nitrate,5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4012,Superphosphates above 35%,5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4012,Superphosphates above 35%,5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4012,Superphosphates above 35%,5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4013,"Superphosphates, other",5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4013,"Superphosphates, other",5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4013,"Superphosphates, other",5510,Production,2015,2015,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2006,2006,tonnes,978000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2007,2007,tonnes,1426000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2008,2008,tonnes,1627000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2009,2009,tonnes,1171000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2010,2010,tonnes,1279000,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2011,2011,tonnes,1251872,E,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2012,2012,tonnes,1224744,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2013,2013,tonnes,996114.96,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2014,2014,tonnes,1059339.58,Qm,south America
+236,Venezuela (Bolivarian Republic of),4001,Urea,5510,Production,2015,2015,tonnes,879102,Qm,south America
+236,Venezuela (Bolivarian Republic of),4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2013,2013,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2014,2014,tonnes,0,Qm,south America
+236,Venezuela (Bolivarian Republic of),4006,Urea and ammonium nitrate solutions (UAN),5510,Production,2015,2015,tonnes,0,Qm,south America

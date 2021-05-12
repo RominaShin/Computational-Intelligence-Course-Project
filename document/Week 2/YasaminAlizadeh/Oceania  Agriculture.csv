@@ -1,0 +1,770 @@
+﻿Area Code,Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,continent
+10,Australia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2014,2014,tonnes,45524,Qm,Oceania
+10,Australia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2015,2015,tonnes,40000,Qm,Oceania
+10,Australia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2016,2016,tonnes,39761,Qm,Oceania
+10,Australia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2017,2017,tonnes,35411,Qm,Oceania
+10,Australia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2004,2004,tonnes,351892,Fb,Oceania
+10,Australia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2005,2005,tonnes,33367,Fb,Oceania
+10,Australia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2014,2014,tonnes,504150,E,Oceania
+10,Australia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2015,2015,tonnes,176522,E,Oceania
+10,Australia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2016,2016,tonnes,165970,E,Oceania
+10,Australia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2017,2017,tonnes,151418,E,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2003,2003,tonnes,266563,Fb,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2004,2004,tonnes,306786,Fb,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2005,2005,tonnes,300505,Fb,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2010,2010,tonnes,160856,Qm,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2011,2011,tonnes,47329,Fb,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2012,2012,tonnes,156799,Qm,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2013,2013,tonnes,134630,Qm,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2014,2014,tonnes,138915,Qm,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2015,2015,tonnes,192000,Qm,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2016,2016,tonnes,172581,Qm,Oceania
+10,Australia,4002,Ammonium sulphate,5157,Agricultural Use,2017,2017,tonnes,146420,Qm,Oceania
+10,Australia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2002,2002,tonnes,534,Fb,Oceania
+10,Australia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2003,2003,tonnes,398,Fb,Oceania
+10,Australia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2004,2004,tonnes,12971,Fb,Oceania
+10,Australia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2005,2005,tonnes,27814,Fb,Oceania
+10,Australia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2009,2009,tonnes,74,Fb,Oceania
+10,Australia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2010,2010,tonnes,1022315,Qm,Oceania
+10,Australia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2012,2012,tonnes,1124066,Qm,Oceania
+10,Australia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2009,2009,tonnes,416724,Fb,Oceania
+10,Australia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2011,2011,tonnes,713917,Fb,Oceania
+10,Australia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2014,2014,tonnes,860792,E,Oceania
+10,Australia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2015,2015,tonnes,1096851,E,Oceania
+10,Australia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2016,2016,tonnes,1114790,E,Oceania
+10,Australia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2017,2017,tonnes,962951,E,Oceania
+10,Australia,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,41037,E,Oceania
+10,Australia,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,1258690,E,Oceania
+10,Australia,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,116990,E,Oceania
+10,Australia,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2014,2014,tonnes,362206,Qm,Oceania
+10,Australia,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2015,2015,tonnes,304000,Qm,Oceania
+10,Australia,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2016,2016,tonnes,211449,Qm,Oceania
+10,Australia,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2017,2017,tonnes,287906,Qm,Oceania
+10,Australia,4024,Other NP compounds,5157,Agricultural Use,2009,2009,tonnes,2208,E,Oceania
+10,Australia,4024,Other NP compounds,5157,Agricultural Use,2010,2010,tonnes,14162,E,Oceania
+10,Australia,4024,Other NP compounds,5157,Agricultural Use,2011,2011,tonnes,42783,E,Oceania
+10,Australia,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2014,2014,tonnes,349280,E,Oceania
+10,Australia,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2015,2015,tonnes,413000,Qm,Oceania
+10,Australia,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2016,2016,tonnes,261487,Qm,Oceania
+10,Australia,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2017,2017,tonnes,358631,Qm,Oceania
+10,Australia,4027,PK compounds,5157,Agricultural Use,2009,2009,tonnes,130,Fb,Oceania
+10,Australia,4027,PK compounds,5157,Agricultural Use,2011,2011,tonnes,609,Fb,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2002,2002,tonnes,333860,Fb,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2003,2003,tonnes,312355,Fb,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2004,2004,tonnes,474227,Fb,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2005,2005,tonnes,411326,Fb,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2011,2011,tonnes,221515,Fb,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2013,2013,tonnes,209601,Qm,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2014,2014,tonnes,231525,Qm,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2015,2015,tonnes,239836,Qm,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2016,2016,tonnes,184787,Qm,Oceania
+10,Australia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2017,2017,tonnes,140339,Qm,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2009,2009,tonnes,5786,Fb,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2010,2010,tonnes,34782,Qm,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2011,2011,tonnes,12869,Fb,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2012,2012,tonnes,33525,Qm,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2014,2014,tonnes,40976,Qm,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2015,2015,tonnes,59000,Qm,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2016,2016,tonnes,48019,Qm,Oceania
+10,Australia,4025,Potassium nitrate,5157,Agricultural Use,2017,2017,tonnes,25094,Qm,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2002,2002,tonnes,44506,Fb,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2003,2003,tonnes,27809,Fb,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2004,2004,tonnes,22172,Fb,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2005,2005,tonnes,28680,Fb,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2009,2009,tonnes,21154,Fb,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2010,2010,tonnes,176501,Qm,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2011,2011,tonnes,50525,Fb,Oceania
+10,Australia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2012,2012,tonnes,128454,Qm,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2002,2002,tonnes,188047,Fb,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2003,2003,tonnes,157906,Fb,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2004,2004,tonnes,266833,Fb,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2005,2005,tonnes,295474,Fb,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2009,2009,tonnes,78618,E,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2010,2010,tonnes,961962,Qm,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2011,2011,tonnes,89395,E,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2012,2012,tonnes,899764,Qm,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2013,2013,tonnes,512404,Qm,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2014,2014,tonnes,632202,E,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2015,2015,tonnes,752000,Qm,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2016,2016,tonnes,737519,Qm,Oceania
+10,Australia,4012,Superphosphates above 35%,5157,Agricultural Use,2017,2017,tonnes,700323,Qm,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2002,2002,tonnes,1423000,Fb,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2003,2003,tonnes,1206800,Fb,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2004,2004,tonnes,1228800,Fb,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2005,2005,tonnes,1142900,Fb,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2013,2013,tonnes,124002,Qm,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2014,2014,tonnes,161001,E,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2015,2015,tonnes,198000,Qm,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2016,2016,tonnes,144503,Qm,Oceania
+10,Australia,4013,"Superphosphates, other",5157,Agricultural Use,2017,2017,tonnes,176067,Qm,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2002,2002,tonnes,1161035,Fb,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2003,2003,tonnes,1377523,Fb,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,1469362,Fb,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,1405955,Fb,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2009,2009,tonnes,740505,Fb,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,1057520,Qm,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2011,2011,tonnes,1485631,Fb,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2012,2012,tonnes,1157512,Qm,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2013,2013,tonnes,1092540,Qm,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2014,2014,tonnes,1753221,E,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2015,2015,tonnes,1772020,E,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2016,2016,tonnes,1548247,E,Oceania
+10,Australia,4001,Urea,5157,Agricultural Use,2017,2017,tonnes,1678298,E,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2009,2009,tonnes,110721,Fb,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2010,2010,tonnes,231981,Qm,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2012,2012,tonnes,273876,Qm,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2013,2013,tonnes,143709,Qm,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2014,2014,tonnes,122400,Fm,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2015,2015,tonnes,109400,Fm,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2016,2016,tonnes,144700,Fm,Oceania
+10,Australia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2017,2017,tonnes,128677.2,E,Oceania
+47,Cook Islands,4002,Ammonium sulphate,5157,Agricultural Use,2006,2006,tonnes,42,Qm,Oceania
+47,Cook Islands,4002,Ammonium sulphate,5157,Agricultural Use,2007,2007,tonnes,1,Qm,Oceania
+47,Cook Islands,4002,Ammonium sulphate,5157,Agricultural Use,2008,2008,tonnes,1.5,Qm,Oceania
+47,Cook Islands,4002,Ammonium sulphate,5157,Agricultural Use,2009,2009,tonnes,1,Fb,Oceania
+47,Cook Islands,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2006,2006,tonnes,2,Qm,Oceania
+47,Cook Islands,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2007,2007,tonnes,2,Qm,Oceania
+47,Cook Islands,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2008,2008,tonnes,0.5,Qm,Oceania
+47,Cook Islands,4021,NPK fertilizers,5157,Agricultural Use,2006,2006,tonnes,119,Qm,Oceania
+47,Cook Islands,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,12,Qm,Oceania
+47,Cook Islands,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,109.75,Qm,Oceania
+47,Cook Islands,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,108,E,Oceania
+47,Cook Islands,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,38.05,Qm,Oceania
+47,Cook Islands,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,38.05,Qm,Oceania
+47,Cook Islands,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2006,2006,tonnes,1,Qm,Oceania
+47,Cook Islands,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2007,2007,tonnes,1,Qm,Oceania
+47,Cook Islands,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2008,2008,tonnes,1,Qm,Oceania
+47,Cook Islands,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2006,2006,tonnes,0.5,Qm,Oceania
+47,Cook Islands,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2007,2007,tonnes,0.5,Qm,Oceania
+47,Cook Islands,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2008,2008,tonnes,0.5,Qm,Oceania
+47,Cook Islands,4012,Superphosphates above 35%,5157,Agricultural Use,2006,2006,tonnes,1,Qm,Oceania
+47,Cook Islands,4012,Superphosphates above 35%,5157,Agricultural Use,2007,2007,tonnes,1,Qm,Oceania
+47,Cook Islands,4012,Superphosphates above 35%,5157,Agricultural Use,2008,2008,tonnes,2,Qm,Oceania
+47,Cook Islands,4012,Superphosphates above 35%,5157,Agricultural Use,2009,2009,tonnes,2,E,Oceania
+47,Cook Islands,4012,Superphosphates above 35%,5157,Agricultural Use,2010,2010,tonnes,0.54,Qm,Oceania
+47,Cook Islands,4012,Superphosphates above 35%,5157,Agricultural Use,2011,2011,tonnes,0.54,Qm,Oceania
+47,Cook Islands,4001,Urea,5157,Agricultural Use,2006,2006,tonnes,2,Qm,Oceania
+47,Cook Islands,4001,Urea,5157,Agricultural Use,2007,2007,tonnes,4,Qm,Oceania
+47,Cook Islands,4001,Urea,5157,Agricultural Use,2008,2008,tonnes,2,Qm,Oceania
+47,Cook Islands,4001,Urea,5157,Agricultural Use,2009,2009,tonnes,4,Fb,Oceania
+47,Cook Islands,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,3.76,Qm,Oceania
+47,Cook Islands,4001,Urea,5157,Agricultural Use,2011,2011,tonnes,3.76,Qm,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2002,2002,tonnes,10260,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2003,2003,tonnes,735,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2004,2004,tonnes,1944,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2005,2005,tonnes,992,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2006,2006,tonnes,665,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2008,2008,tonnes,128,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2009,2009,tonnes,493,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2010,2010,tonnes,574,Fb,Oceania
+66,Fiji,4003,Ammonium nitrate (AN),5157,Agricultural Use,2011,2011,tonnes,890,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2002,2002,tonnes,24043,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2003,2003,tonnes,12480,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2004,2004,tonnes,32377,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2005,2005,tonnes,17906,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2006,2006,tonnes,18000,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2008,2008,tonnes,30194,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2009,2009,tonnes,7730,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2010,2010,tonnes,8905,Fb,Oceania
+66,Fiji,4002,Ammonium sulphate,5157,Agricultural Use,2011,2011,tonnes,14729,Fb,Oceania
+66,Fiji,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2008,2008,tonnes,2,Fb,Oceania
+66,Fiji,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2009,2009,tonnes,11,Fb,Oceania
+66,Fiji,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2011,2011,tonnes,1,Fb,Oceania
+66,Fiji,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2007,2007,tonnes,1,Fb,Oceania
+66,Fiji,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2008,2008,tonnes,1,Fb,Oceania
+66,Fiji,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2010,2010,tonnes,503,Fb,Oceania
+66,Fiji,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2011,2011,tonnes,2,Fb,Oceania
+66,Fiji,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2002,2002,tonnes,5000,Fb,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2002,2002,tonnes,301,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2003,2003,tonnes,122,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2004,2004,tonnes,7,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2005,2005,tonnes,44,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2006,2006,tonnes,59,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,2,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,29,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,2165,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,82,E,Oceania
+66,Fiji,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,83,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2002,2002,tonnes,178,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2003,2003,tonnes,81,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2004,2004,tonnes,1,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2005,2005,tonnes,30,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2006,2006,tonnes,4,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2007,2007,tonnes,46,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2008,2008,tonnes,605,E,Oceania
+66,Fiji,4024,Other NP compounds,5157,Agricultural Use,2010,2010,tonnes,6,E,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2002,2002,tonnes,85,Fb,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2003,2003,tonnes,77,Fb,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2004,2004,tonnes,73,Fb,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2005,2005,tonnes,15,Fb,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2008,2008,tonnes,69,Fb,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2009,2009,tonnes,3,Fb,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2010,2010,tonnes,12,Fb,Oceania
+66,Fiji,4027,PK compounds,5157,Agricultural Use,2011,2011,tonnes,27,Fb,Oceania
+66,Fiji,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2011,2011,tonnes,3785,Fb,Oceania
+66,Fiji,4025,Potassium nitrate,5157,Agricultural Use,2005,2005,tonnes,2,Fb,Oceania
+66,Fiji,4025,Potassium nitrate,5157,Agricultural Use,2006,2006,tonnes,17,Fb,Oceania
+66,Fiji,4025,Potassium nitrate,5157,Agricultural Use,2008,2008,tonnes,1,Fb,Oceania
+66,Fiji,4025,Potassium nitrate,5157,Agricultural Use,2009,2009,tonnes,8,Fb,Oceania
+66,Fiji,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2009,2009,tonnes,1,Fb,Oceania
+66,Fiji,4012,Superphosphates above 35%,5157,Agricultural Use,2009,2009,tonnes,15,E,Oceania
+66,Fiji,4012,Superphosphates above 35%,5157,Agricultural Use,2011,2011,tonnes,12,E,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2002,2002,tonnes,677,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2003,2003,tonnes,611,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,472,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,439,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2006,2006,tonnes,453,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2008,2008,tonnes,540,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2009,2009,tonnes,948,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,591,Fb,Oceania
+66,Fiji,4001,Urea,5157,Agricultural Use,2011,2011,tonnes,211,Fb,Oceania
+66,Fiji,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2011,2011,tonnes,95,Fb,Oceania
+70,French Polynesia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2002,2002,tonnes,65,Fb,Oceania
+70,French Polynesia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2003,2003,tonnes,24,Fb,Oceania
+70,French Polynesia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2004,2004,tonnes,48,Fb,Oceania
+70,French Polynesia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2005,2005,tonnes,59,Fb,Oceania
+70,French Polynesia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2006,2006,tonnes,42,Fb,Oceania
+70,French Polynesia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2010,2010,tonnes,41,Fb,Oceania
+70,French Polynesia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2011,2011,tonnes,47,Fb,Oceania
+70,French Polynesia,4002,Ammonium sulphate,5157,Agricultural Use,2003,2003,tonnes,1,Fb,Oceania
+70,French Polynesia,4002,Ammonium sulphate,5157,Agricultural Use,2004,2004,tonnes,1,Fb,Oceania
+70,French Polynesia,4002,Ammonium sulphate,5157,Agricultural Use,2005,2005,tonnes,1,Fb,Oceania
+70,French Polynesia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2011,2011,tonnes,64,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2002,2002,tonnes,1,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2003,2003,tonnes,2,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2005,2005,tonnes,4,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2006,2006,tonnes,8,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2007,2007,tonnes,2,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2008,2008,tonnes,1,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2009,2009,tonnes,25,Fb,Oceania
+70,French Polynesia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2011,2011,tonnes,10,Fb,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2002,2002,tonnes,1799,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2003,2003,tonnes,1553,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2004,2004,tonnes,1771,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2005,2005,tonnes,1309,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2006,2006,tonnes,1384,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,1422,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,1199,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,1019,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,145,E,Oceania
+70,French Polynesia,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,1118,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2002,2002,tonnes,43,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2003,2003,tonnes,42,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2004,2004,tonnes,91,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2005,2005,tonnes,97,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2006,2006,tonnes,86,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2007,2007,tonnes,122,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2008,2008,tonnes,112,E,Oceania
+70,French Polynesia,4024,Other NP compounds,5157,Agricultural Use,2009,2009,tonnes,112,E,Oceania
+70,French Polynesia,4027,PK compounds,5157,Agricultural Use,2002,2002,tonnes,21,Fb,Oceania
+70,French Polynesia,4027,PK compounds,5157,Agricultural Use,2003,2003,tonnes,20,Fb,Oceania
+70,French Polynesia,4027,PK compounds,5157,Agricultural Use,2004,2004,tonnes,1,Fb,Oceania
+70,French Polynesia,4027,PK compounds,5157,Agricultural Use,2005,2005,tonnes,4,Fb,Oceania
+70,French Polynesia,4027,PK compounds,5157,Agricultural Use,2009,2009,tonnes,48,Fb,Oceania
+70,French Polynesia,4027,PK compounds,5157,Agricultural Use,2011,2011,tonnes,37,Fb,Oceania
+70,French Polynesia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2002,2002,tonnes,41,Fb,Oceania
+70,French Polynesia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2003,2003,tonnes,35,Fb,Oceania
+70,French Polynesia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2004,2004,tonnes,29,Fb,Oceania
+70,French Polynesia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2005,2005,tonnes,46,Fb,Oceania
+70,French Polynesia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2006,2006,tonnes,20,Fb,Oceania
+70,French Polynesia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2010,2010,tonnes,15,Fb,Oceania
+70,French Polynesia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2011,2011,tonnes,15,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2002,2002,tonnes,49,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2003,2003,tonnes,21,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2004,2004,tonnes,1,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2005,2005,tonnes,1,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2006,2006,tonnes,22,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2007,2007,tonnes,14,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2008,2008,tonnes,106,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2009,2009,tonnes,29,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2010,2010,tonnes,1,Fb,Oceania
+70,French Polynesia,4025,Potassium nitrate,5157,Agricultural Use,2011,2011,tonnes,23,Fb,Oceania
+70,French Polynesia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2002,2002,tonnes,5,Fb,Oceania
+70,French Polynesia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2003,2003,tonnes,5,Fb,Oceania
+70,French Polynesia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2005,2005,tonnes,21,Fb,Oceania
+70,French Polynesia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2006,2006,tonnes,7,Fb,Oceania
+70,French Polynesia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2010,2010,tonnes,52,Fb,Oceania
+70,French Polynesia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2011,2011,tonnes,72,Fb,Oceania
+70,French Polynesia,4012,Superphosphates above 35%,5157,Agricultural Use,2007,2007,tonnes,24,E,Oceania
+70,French Polynesia,4012,Superphosphates above 35%,5157,Agricultural Use,2010,2010,tonnes,1,E,Oceania
+70,French Polynesia,4012,Superphosphates above 35%,5157,Agricultural Use,2011,2011,tonnes,4,E,Oceania
+70,French Polynesia,4001,Urea,5157,Agricultural Use,2002,2002,tonnes,174,Fb,Oceania
+70,French Polynesia,4001,Urea,5157,Agricultural Use,2003,2003,tonnes,181,Fb,Oceania
+70,French Polynesia,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,182,Fb,Oceania
+70,French Polynesia,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,123,Fb,Oceania
+70,French Polynesia,4001,Urea,5157,Agricultural Use,2006,2006,tonnes,168,Fb,Oceania
+70,French Polynesia,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,299,Fb,Oceania
+70,French Polynesia,4001,Urea,5157,Agricultural Use,2011,2011,tonnes,312,Fb,Oceania
+70,French Polynesia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2011,2011,tonnes,5,Fb,Oceania
+127,Marshall Islands,4002,Ammonium sulphate,5157,Agricultural Use,2002,2002,tonnes,2,Fb,Oceania
+127,Marshall Islands,4002,Ammonium sulphate,5157,Agricultural Use,2003,2003,tonnes,2,Fb,Oceania
+127,Marshall Islands,4002,Ammonium sulphate,5157,Agricultural Use,2004,2004,tonnes,2,Fb,Oceania
+127,Marshall Islands,4002,Ammonium sulphate,5157,Agricultural Use,2005,2005,tonnes,2,Fb,Oceania
+127,Marshall Islands,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2002,2002,tonnes,2,Fb,Oceania
+127,Marshall Islands,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2003,2003,tonnes,2,Fb,Oceania
+127,Marshall Islands,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2004,2004,tonnes,2,Fb,Oceania
+127,Marshall Islands,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2005,2005,tonnes,2,Fb,Oceania
+127,Marshall Islands,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,1,Fb,Oceania
+127,Marshall Islands,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,1,Fb,Oceania
+148,Nauru,4007,"Ammonia, anhydrous",5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4007,"Ammonia, anhydrous",5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4007,"Ammonia, anhydrous",5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4007,"Ammonia, anhydrous",5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4003,Ammonium nitrate (AN),5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4003,Ammonium nitrate (AN),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4003,Ammonium nitrate (AN),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4003,Ammonium nitrate (AN),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4002,Ammonium sulphate,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4002,Ammonium sulphate,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4002,Ammonium sulphate,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4002,Ammonium sulphate,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4030,Fertilizers n.e.c.,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4030,Fertilizers n.e.c.,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4030,Fertilizers n.e.c.,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4030,Fertilizers n.e.c.,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4021,NPK fertilizers,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4021,NPK fertilizers,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4021,NPK fertilizers,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4021,NPK fertilizers,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4008,"Other nitrogenous fertilizers, n.e.c.",5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4026,Other NK compounds,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4026,Other NK compounds,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4026,Other NK compounds,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4026,Other NK compounds,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4024,Other NP compounds,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4024,Other NP compounds,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4024,Other NP compounds,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4024,Other NP compounds,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4014,"Other phosphatic fertilizers, n.e.c.",5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4018,"Other potassic fertilizers, n.e.c.",5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4018,"Other potassic fertilizers, n.e.c.",5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4018,"Other potassic fertilizers, n.e.c.",5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4018,"Other potassic fertilizers, n.e.c.",5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4011,Phosphate rock,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4011,Phosphate rock,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4011,Phosphate rock,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4011,Phosphate rock,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4027,PK compounds,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4027,PK compounds,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4027,PK compounds,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4027,PK compounds,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4025,Potassium nitrate,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4025,Potassium nitrate,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4025,Potassium nitrate,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4025,Potassium nitrate,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4005,Sodium nitrate,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4005,Sodium nitrate,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4005,Sodium nitrate,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4005,Sodium nitrate,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4012,Superphosphates above 35%,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4012,Superphosphates above 35%,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4012,Superphosphates above 35%,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4012,Superphosphates above 35%,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4013,"Superphosphates, other",5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4013,"Superphosphates, other",5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4013,"Superphosphates, other",5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4013,"Superphosphates, other",5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4001,Urea,5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4001,Urea,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4001,Urea,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4001,Urea,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+148,Nauru,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2012,2012,tonnes,0,Qm,Oceania
+148,Nauru,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+148,Nauru,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+148,Nauru,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4007,"Ammonia, anhydrous",5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2002,2002,tonnes,513,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2003,2003,tonnes,140,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2004,2004,tonnes,113,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2005,2005,tonnes,106,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2006,2006,tonnes,219,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2007,2007,tonnes,347,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2009,2009,tonnes,190,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2010,2010,tonnes,175,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2011,2011,tonnes,213,Fb,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4003,Ammonium nitrate (AN),5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4002,Ammonium sulphate,5157,Agricultural Use,2003,2003,tonnes,4,Fb,Oceania
+153,New Caledonia,4002,Ammonium sulphate,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4002,Ammonium sulphate,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4002,Ammonium sulphate,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4002,Ammonium sulphate,5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2004,2004,tonnes,22,Fb,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2005,2005,tonnes,19,Fb,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2006,2006,tonnes,9,Fb,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2011,2011,tonnes,57,Fb,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2013,2013,tonnes,195,Qm,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2014,2014,tonnes,224,Qm,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2015,2015,tonnes,232,Qm,Oceania
+153,New Caledonia,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2016,2016,tonnes,189.2,Qm,Oceania
+153,New Caledonia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2002,2002,tonnes,4,Fb,Oceania
+153,New Caledonia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2005,2005,tonnes,57,Fb,Oceania
+153,New Caledonia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2004,2004,tonnes,13,Fb,Oceania
+153,New Caledonia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2002,2002,tonnes,1302,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2003,2003,tonnes,2038,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2004,2004,tonnes,2092,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2005,2005,tonnes,3003,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2006,2006,tonnes,2303,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,2693,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,1820,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,873,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,1282,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,1196,E,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2013,2013,tonnes,546,Qm,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2014,2014,tonnes,571,Qm,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2015,2015,tonnes,464,Qm,Oceania
+153,New Caledonia,4021,NPK fertilizers,5157,Agricultural Use,2016,2016,tonnes,505.83,Qm,Oceania
+153,New Caledonia,4026,Other NK compounds,5157,Agricultural Use,2013,2013,tonnes,30,Qm,Oceania
+153,New Caledonia,4026,Other NK compounds,5157,Agricultural Use,2014,2014,tonnes,1,Qm,Oceania
+153,New Caledonia,4026,Other NK compounds,5157,Agricultural Use,2015,2015,tonnes,1,Qm,Oceania
+153,New Caledonia,4026,Other NK compounds,5157,Agricultural Use,2016,2016,tonnes,0.37,Qm,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2002,2002,tonnes,709,E,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2003,2003,tonnes,4598,E,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2004,2004,tonnes,2,E,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2006,2006,tonnes,44,E,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2007,2007,tonnes,139,E,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2008,2008,tonnes,111,E,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2009,2009,tonnes,73,Fb,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2010,2010,tonnes,138,Fb,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2011,2011,tonnes,108,Fb,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2013,2013,tonnes,546,Qm,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2014,2014,tonnes,571,Qm,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2015,2015,tonnes,464,Qm,Oceania
+153,New Caledonia,4024,Other NP compounds,5157,Agricultural Use,2016,2016,tonnes,505.83,Qm,Oceania
+153,New Caledonia,4011,Phosphate rock,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4011,Phosphate rock,5157,Agricultural Use,2014,2014,tonnes,12,Qm,Oceania
+153,New Caledonia,4011,Phosphate rock,5157,Agricultural Use,2015,2015,tonnes,4,Qm,Oceania
+153,New Caledonia,4011,Phosphate rock,5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2002,2002,tonnes,488,Fb,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2003,2003,tonnes,174,Fb,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2004,2004,tonnes,202,Fb,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2005,2005,tonnes,189,Fb,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2006,2006,tonnes,211,Fb,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2007,2007,tonnes,219,Fb,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2008,2008,tonnes,397,Fb,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2013,2013,tonnes,122,Qm,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2014,2014,tonnes,150,Qm,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2015,2015,tonnes,162,Qm,Oceania
+153,New Caledonia,4027,PK compounds,5157,Agricultural Use,2016,2016,tonnes,286.68,Qm,Oceania
+153,New Caledonia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2002,2002,tonnes,5,Fb,Oceania
+153,New Caledonia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2013,2013,tonnes,4,Qm,Oceania
+153,New Caledonia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2002,2002,tonnes,88,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2003,2003,tonnes,114,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2004,2004,tonnes,297,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2005,2005,tonnes,43,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2006,2006,tonnes,129,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2007,2007,tonnes,42,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2008,2008,tonnes,24,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2009,2009,tonnes,19,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2010,2010,tonnes,24,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2011,2011,tonnes,32,Fb,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2013,2013,tonnes,75,Qm,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2014,2014,tonnes,107,Qm,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2015,2015,tonnes,101,Qm,Oceania
+153,New Caledonia,4025,Potassium nitrate,5157,Agricultural Use,2016,2016,tonnes,26.05,Qm,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2002,2002,tonnes,304,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2003,2003,tonnes,284,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2004,2004,tonnes,205,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2005,2005,tonnes,145,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2006,2006,tonnes,221,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2007,2007,tonnes,90,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2009,2009,tonnes,62,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2010,2010,tonnes,61,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2011,2011,tonnes,60,Fb,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2013,2013,tonnes,172,Qm,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2014,2014,tonnes,173,Qm,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2015,2015,tonnes,3,Qm,Oceania
+153,New Caledonia,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4005,Sodium nitrate,5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4005,Sodium nitrate,5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4005,Sodium nitrate,5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4005,Sodium nitrate,5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4012,Superphosphates above 35%,5157,Agricultural Use,2005,2005,tonnes,39,E,Oceania
+153,New Caledonia,4012,Superphosphates above 35%,5157,Agricultural Use,2006,2006,tonnes,67,E,Oceania
+153,New Caledonia,4012,Superphosphates above 35%,5157,Agricultural Use,2007,2007,tonnes,47,E,Oceania
+153,New Caledonia,4012,Superphosphates above 35%,5157,Agricultural Use,2013,2013,tonnes,57,Qm,Oceania
+153,New Caledonia,4012,Superphosphates above 35%,5157,Agricultural Use,2014,2014,tonnes,37,Qm,Oceania
+153,New Caledonia,4012,Superphosphates above 35%,5157,Agricultural Use,2015,2015,tonnes,70,Qm,Oceania
+153,New Caledonia,4012,Superphosphates above 35%,5157,Agricultural Use,2016,2016,tonnes,9.58,Qm,Oceania
+153,New Caledonia,4013,"Superphosphates, other",5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4013,"Superphosphates, other",5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4013,"Superphosphates, other",5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4013,"Superphosphates, other",5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2002,2002,tonnes,457,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2003,2003,tonnes,468,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,442,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,580,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2006,2006,tonnes,404,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2007,2007,tonnes,511,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2009,2009,tonnes,316,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,603,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2011,2011,tonnes,859,Fb,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2013,2013,tonnes,435,Qm,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2014,2014,tonnes,403,Qm,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2015,2015,tonnes,486,Qm,Oceania
+153,New Caledonia,4001,Urea,5157,Agricultural Use,2016,2016,tonnes,491.42,Qm,Oceania
+153,New Caledonia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2013,2013,tonnes,0,Qm,Oceania
+153,New Caledonia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2014,2014,tonnes,0,Qm,Oceania
+153,New Caledonia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2015,2015,tonnes,0,Qm,Oceania
+153,New Caledonia,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2016,2016,tonnes,0,Qm,Oceania
+156,New Zealand,4003,Ammonium nitrate (AN),5157,Agricultural Use,2002,2002,tonnes,8750,Qm,Oceania
+156,New Zealand,4003,Ammonium nitrate (AN),5157,Agricultural Use,2003,2003,tonnes,12963,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2002,2002,tonnes,87518,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2003,2003,tonnes,90218,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2004,2004,tonnes,53108,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2005,2005,tonnes,49115,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2008,2008,tonnes,40007,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2009,2009,tonnes,34376,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2010,2010,tonnes,45553,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2011,2011,tonnes,54840,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2012,2012,tonnes,43166,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2013,2013,tonnes,49669,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2014,2014,tonnes,59846,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2015,2015,tonnes,61916,Qm,Oceania
+156,New Zealand,4002,Ammonium sulphate,5157,Agricultural Use,2016,2016,tonnes,61916,Fm,Oceania
+156,New Zealand,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2002,2002,tonnes,5272,Qm,Oceania
+156,New Zealand,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2003,2003,tonnes,649,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2002,2002,tonnes,209337,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2003,2003,tonnes,291226,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2004,2004,tonnes,260212,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2005,2005,tonnes,235074,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2006,2006,tonnes,199176,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2007,2007,tonnes,147199,Fb,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2008,2008,tonnes,85879,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2009,2009,tonnes,82545,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2010,2010,tonnes,145050,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2011,2011,tonnes,120138,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2012,2012,tonnes,107337,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2013,2013,tonnes,131309,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2014,2014,tonnes,166924,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2015,2015,tonnes,175985,Qm,Oceania
+156,New Zealand,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2016,2016,tonnes,175985,Fm,Oceania
+156,New Zealand,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2002,2002,tonnes,5465,Qm,Oceania
+156,New Zealand,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2003,2003,tonnes,5055,Qm,Oceania
+156,New Zealand,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2006,2006,tonnes,81,Fb,Oceania
+156,New Zealand,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2007,2007,tonnes,10352,Fb,Oceania
+156,New Zealand,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2008,2008,tonnes,3082,Fb,Oceania
+156,New Zealand,4021,NPK fertilizers,5157,Agricultural Use,2002,2002,tonnes,57302,Qm,Oceania
+156,New Zealand,4021,NPK fertilizers,5157,Agricultural Use,2003,2003,tonnes,24193,Qm,Oceania
+156,New Zealand,4021,NPK fertilizers,5157,Agricultural Use,2006,2006,tonnes,23483,E,Oceania
+156,New Zealand,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,33705,E,Oceania
+156,New Zealand,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,33846,E,Oceania
+156,New Zealand,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,7397.2,E,Oceania
+156,New Zealand,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,243751,Qm,Oceania
+156,New Zealand,4024,Other NP compounds,5157,Agricultural Use,2003,2003,tonnes,38,Qm,Oceania
+156,New Zealand,4024,Other NP compounds,5157,Agricultural Use,2006,2006,tonnes,68,E,Oceania
+156,New Zealand,4024,Other NP compounds,5157,Agricultural Use,2007,2007,tonnes,60.94,E,Oceania
+156,New Zealand,4024,Other NP compounds,5157,Agricultural Use,2008,2008,tonnes,67,E,Oceania
+156,New Zealand,4024,Other NP compounds,5157,Agricultural Use,2009,2009,tonnes,2075.8,E,Oceania
+156,New Zealand,4027,PK compounds,5157,Agricultural Use,2002,2002,tonnes,11,Qm,Oceania
+156,New Zealand,4027,PK compounds,5157,Agricultural Use,2003,2003,tonnes,24,Qm,Oceania
+156,New Zealand,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2002,2002,tonnes,248739,Qm,Oceania
+156,New Zealand,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2003,2003,tonnes,246763,Qm,Oceania
+156,New Zealand,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2005,2005,tonnes,212978,Qm,Oceania
+156,New Zealand,4025,Potassium nitrate,5157,Agricultural Use,2002,2002,tonnes,1814,Qm,Oceania
+156,New Zealand,4025,Potassium nitrate,5157,Agricultural Use,2003,2003,tonnes,2121,Qm,Oceania
+156,New Zealand,4025,Potassium nitrate,5157,Agricultural Use,2007,2007,tonnes,1678,Fb,Oceania
+156,New Zealand,4025,Potassium nitrate,5157,Agricultural Use,2008,2008,tonnes,2099,Fb,Oceania
+156,New Zealand,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2002,2002,tonnes,10037,Qm,Oceania
+156,New Zealand,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2003,2003,tonnes,9748,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2004,2004,tonnes,1457267,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2006,2006,tonnes,5195,E,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2008,2008,tonnes,942533,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2009,2009,tonnes,575117,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2010,2010,tonnes,625015,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2011,2011,tonnes,913046,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2012,2012,tonnes,925580,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2013,2013,tonnes,803422,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2014,2014,tonnes,860875,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2015,2015,tonnes,784031,Qm,Oceania
+156,New Zealand,4012,Superphosphates above 35%,5157,Agricultural Use,2016,2016,tonnes,784031,Fm,Oceania
+156,New Zealand,4013,"Superphosphates, other",5157,Agricultural Use,2005,2005,tonnes,1457267,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2002,2002,tonnes,518133,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2003,2003,tonnes,579563,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,398839,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,464630,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2008,2008,tonnes,444896,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2009,2009,tonnes,426904,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,412880,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2011,2011,tonnes,479506,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2012,2012,tonnes,501303,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2013,2013,tonnes,511074,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2014,2014,tonnes,533373,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2015,2015,tonnes,538854,Qm,Oceania
+156,New Zealand,4001,Urea,5157,Agricultural Use,2016,2016,tonnes,538854,Fm,Oceania
+168,Papua New Guinea,4003,Ammonium nitrate (AN),5157,Agricultural Use,2002,2002,tonnes,11579,Fb,Oceania
+168,Papua New Guinea,4003,Ammonium nitrate (AN),5157,Agricultural Use,2003,2003,tonnes,17821,Fb,Oceania
+168,Papua New Guinea,4003,Ammonium nitrate (AN),5157,Agricultural Use,2004,2004,tonnes,37440,Fb,Oceania
+168,Papua New Guinea,4003,Ammonium nitrate (AN),5157,Agricultural Use,2005,2005,tonnes,24140,Fb,Oceania
+168,Papua New Guinea,4003,Ammonium nitrate (AN),5157,Agricultural Use,2006,2006,tonnes,23067,Fb,Oceania
+168,Papua New Guinea,4002,Ammonium sulphate,5157,Agricultural Use,2002,2002,tonnes,557,Fb,Oceania
+168,Papua New Guinea,4002,Ammonium sulphate,5157,Agricultural Use,2003,2003,tonnes,1040,Fb,Oceania
+168,Papua New Guinea,4002,Ammonium sulphate,5157,Agricultural Use,2004,2004,tonnes,4377,Fb,Oceania
+168,Papua New Guinea,4002,Ammonium sulphate,5157,Agricultural Use,2005,2005,tonnes,1051,Fb,Oceania
+168,Papua New Guinea,4002,Ammonium sulphate,5157,Agricultural Use,2006,2006,tonnes,17,Fb,Oceania
+168,Papua New Guinea,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2003,2003,tonnes,1,Fb,Oceania
+168,Papua New Guinea,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2007,2007,tonnes,34,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2003,2003,tonnes,323,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2004,2004,tonnes,1578,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2005,2005,tonnes,80,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2006,2006,tonnes,3194,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2007,2007,tonnes,4114,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2008,2008,tonnes,2653,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2009,2009,tonnes,104,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2010,2010,tonnes,3620,Fb,Oceania
+168,Papua New Guinea,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2011,2011,tonnes,2082,Fb,Oceania
+168,Papua New Guinea,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2003,2003,tonnes,109,Fb,Oceania
+168,Papua New Guinea,4023,Monoammonium phosphate (MAP),5157,Agricultural Use,2007,2007,tonnes,1,Fb,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2002,2002,tonnes,147,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2003,2003,tonnes,530,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2004,2004,tonnes,1303,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2005,2005,tonnes,3360,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2006,2006,tonnes,3746,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,4279,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,7003,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,2503,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,7361,E,Oceania
+168,Papua New Guinea,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,5688,E,Oceania
+168,Papua New Guinea,4024,Other NP compounds,5157,Agricultural Use,2002,2002,tonnes,60,E,Oceania
+168,Papua New Guinea,4024,Other NP compounds,5157,Agricultural Use,2003,2003,tonnes,4,E,Oceania
+168,Papua New Guinea,4024,Other NP compounds,5157,Agricultural Use,2004,2004,tonnes,10,E,Oceania
+168,Papua New Guinea,4024,Other NP compounds,5157,Agricultural Use,2005,2005,tonnes,2028,E,Oceania
+168,Papua New Guinea,4024,Other NP compounds,5157,Agricultural Use,2007,2007,tonnes,1382,E,Oceania
+168,Papua New Guinea,4024,Other NP compounds,5157,Agricultural Use,2008,2008,tonnes,289,E,Oceania
+168,Papua New Guinea,4024,Other NP compounds,5157,Agricultural Use,2011,2011,tonnes,82,E,Oceania
+168,Papua New Guinea,4027,PK compounds,5157,Agricultural Use,2002,2002,tonnes,1582,Fb,Oceania
+168,Papua New Guinea,4027,PK compounds,5157,Agricultural Use,2003,2003,tonnes,895,Fb,Oceania
+168,Papua New Guinea,4027,PK compounds,5157,Agricultural Use,2009,2009,tonnes,10,Fb,Oceania
+168,Papua New Guinea,4027,PK compounds,5157,Agricultural Use,2010,2010,tonnes,1,Fb,Oceania
+168,Papua New Guinea,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2002,2002,tonnes,500,Fb,Oceania
+168,Papua New Guinea,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2003,2003,tonnes,420,Fb,Oceania
+168,Papua New Guinea,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2004,2004,tonnes,2704,Fb,Oceania
+168,Papua New Guinea,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2005,2005,tonnes,1630,Fb,Oceania
+168,Papua New Guinea,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2006,2006,tonnes,1236,Fb,Oceania
+168,Papua New Guinea,4025,Potassium nitrate,5157,Agricultural Use,2002,2002,tonnes,2,Fb,Oceania
+168,Papua New Guinea,4025,Potassium nitrate,5157,Agricultural Use,2003,2003,tonnes,2,Fb,Oceania
+168,Papua New Guinea,4025,Potassium nitrate,5157,Agricultural Use,2006,2006,tonnes,1,Fb,Oceania
+168,Papua New Guinea,4025,Potassium nitrate,5157,Agricultural Use,2007,2007,tonnes,1,Fb,Oceania
+168,Papua New Guinea,4025,Potassium nitrate,5157,Agricultural Use,2008,2008,tonnes,1,Fb,Oceania
+168,Papua New Guinea,4025,Potassium nitrate,5157,Agricultural Use,2009,2009,tonnes,7,Fb,Oceania
+168,Papua New Guinea,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2002,2002,tonnes,122,Fb,Oceania
+168,Papua New Guinea,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2004,2004,tonnes,13,Fb,Oceania
+168,Papua New Guinea,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2005,2005,tonnes,403,Fb,Oceania
+168,Papua New Guinea,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2006,2006,tonnes,5,Fb,Oceania
+168,Papua New Guinea,4012,Superphosphates above 35%,5157,Agricultural Use,2006,2006,tonnes,148,E,Oceania
+168,Papua New Guinea,4012,Superphosphates above 35%,5157,Agricultural Use,2007,2007,tonnes,1185,E,Oceania
+168,Papua New Guinea,4012,Superphosphates above 35%,5157,Agricultural Use,2008,2008,tonnes,682,E,Oceania
+168,Papua New Guinea,4001,Urea,5157,Agricultural Use,2002,2002,tonnes,2199,Fb,Oceania
+168,Papua New Guinea,4001,Urea,5157,Agricultural Use,2003,2003,tonnes,1332,Fb,Oceania
+168,Papua New Guinea,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,2164,Fb,Oceania
+168,Papua New Guinea,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,10263,Fb,Oceania
+168,Papua New Guinea,4001,Urea,5157,Agricultural Use,2006,2006,tonnes,5574,Fb,Oceania
+168,Papua New Guinea,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2003,2003,tonnes,20,Fb,Oceania
+168,Papua New Guinea,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2004,2004,tonnes,1,Fb,Oceania
+168,Papua New Guinea,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2005,2005,tonnes,1,Fb,Oceania
+244,Samoa,4003,Ammonium nitrate (AN),5157,Agricultural Use,2002,2002,tonnes,1,Fb,Oceania
+244,Samoa,4003,Ammonium nitrate (AN),5157,Agricultural Use,2005,2005,tonnes,7,Fb,Oceania
+244,Samoa,4003,Ammonium nitrate (AN),5157,Agricultural Use,2007,2007,tonnes,4,Fb,Oceania
+244,Samoa,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2005,2005,tonnes,1,Fb,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2002,2002,tonnes,22,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2003,2003,tonnes,37,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2004,2004,tonnes,77,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2005,2005,tonnes,93,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2006,2006,tonnes,44,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,46,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,103,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,75,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,31.52,E,Oceania
+244,Samoa,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,28.7,E,Oceania
+244,Samoa,4024,Other NP compounds,5157,Agricultural Use,2003,2003,tonnes,4,E,Oceania
+244,Samoa,4024,Other NP compounds,5157,Agricultural Use,2004,2004,tonnes,7,E,Oceania
+244,Samoa,4027,PK compounds,5157,Agricultural Use,2011,2011,tonnes,5.72,Fb,Oceania
+244,Samoa,4013,"Superphosphates, other",5157,Agricultural Use,2009,2009,tonnes,9,Fb,Oceania
+244,Samoa,4001,Urea,5157,Agricultural Use,2002,2002,tonnes,2,Fb,Oceania
+244,Samoa,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,1,Fb,Oceania
+244,Samoa,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,20,Fb,Oceania
+244,Samoa,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,3.07,Fb,Oceania
+244,Samoa,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2003,2003,tonnes,1,Fb,Oceania
+219,Tonga,4003,Ammonium nitrate (AN),5157,Agricultural Use,2003,2003,tonnes,10097,Fb,Oceania
+219,Tonga,4003,Ammonium nitrate (AN),5157,Agricultural Use,2004,2004,tonnes,593,Fb,Oceania
+219,Tonga,4003,Ammonium nitrate (AN),5157,Agricultural Use,2005,2005,tonnes,590,Fb,Oceania
+219,Tonga,4003,Ammonium nitrate (AN),5157,Agricultural Use,2006,2006,tonnes,295,Fb,Oceania
+219,Tonga,4002,Ammonium sulphate,5157,Agricultural Use,2009,2009,tonnes,10,Fb,Oceania
+219,Tonga,4002,Ammonium sulphate,5157,Agricultural Use,2010,2010,tonnes,25,Fb,Oceania
+219,Tonga,4002,Ammonium sulphate,5157,Agricultural Use,2011,2011,tonnes,626,Fb,Oceania
+219,Tonga,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,5157,Agricultural Use,2011,2011,tonnes,30,Fb,Oceania
+219,Tonga,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2003,2003,tonnes,1232,Fb,Oceania
+219,Tonga,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2004,2004,tonnes,1164,Fb,Oceania
+219,Tonga,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2005,2005,tonnes,1682,Fb,Oceania
+219,Tonga,4022,Diammonium phosphate (DAP),5157,Agricultural Use,2006,2006,tonnes,935,Fb,Oceania
+219,Tonga,4021,NPK fertilizers,5157,Agricultural Use,2007,2007,tonnes,19,E,Oceania
+219,Tonga,4021,NPK fertilizers,5157,Agricultural Use,2008,2008,tonnes,1406,E,Oceania
+219,Tonga,4021,NPK fertilizers,5157,Agricultural Use,2009,2009,tonnes,157,E,Oceania
+219,Tonga,4021,NPK fertilizers,5157,Agricultural Use,2010,2010,tonnes,13,E,Oceania
+219,Tonga,4021,NPK fertilizers,5157,Agricultural Use,2011,2011,tonnes,8,E,Oceania
+219,Tonga,4024,Other NP compounds,5157,Agricultural Use,2009,2009,tonnes,1,E,Oceania
+219,Tonga,4024,Other NP compounds,5157,Agricultural Use,2011,2011,tonnes,1,E,Oceania
+219,Tonga,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2003,2003,tonnes,24,Fb,Oceania
+219,Tonga,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2004,2004,tonnes,128,Fb,Oceania
+219,Tonga,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2005,2005,tonnes,119,Fb,Oceania
+219,Tonga,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2009,2009,tonnes,30,Fb,Oceania
+219,Tonga,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2010,2010,tonnes,1416,Fb,Oceania
+219,Tonga,4016,Potassium chloride (muriate of potash) (MOP),5157,Agricultural Use,2011,2011,tonnes,2045,Fb,Oceania
+219,Tonga,4025,Potassium nitrate,5157,Agricultural Use,2009,2009,tonnes,10,Fb,Oceania
+219,Tonga,4017,Potassium sulphate (sulphate of potash) (SOP),5157,Agricultural Use,2011,2011,tonnes,1,Fb,Oceania
+219,Tonga,4012,Superphosphates above 35%,5157,Agricultural Use,2003,2003,tonnes,396,E,Oceania
+219,Tonga,4012,Superphosphates above 35%,5157,Agricultural Use,2004,2004,tonnes,204,E,Oceania
+219,Tonga,4012,Superphosphates above 35%,5157,Agricultural Use,2005,2005,tonnes,117,E,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2003,2003,tonnes,448,Fb,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2004,2004,tonnes,783,Fb,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2005,2005,tonnes,61,Fb,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2006,2006,tonnes,84,Fb,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2008,2008,tonnes,167,Fb,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2009,2009,tonnes,9401,Fb,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2010,2010,tonnes,6279,Fb,Oceania
+219,Tonga,4001,Urea,5157,Agricultural Use,2011,2011,tonnes,120,Fb,Oceania
+219,Tonga,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2009,2009,tonnes,69,Fb,Oceania
+219,Tonga,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2010,2010,tonnes,988,Fb,Oceania
+219,Tonga,4006,Urea and ammonium nitrate solutions (UAN),5157,Agricultural Use,2011,2011,tonnes,1300,Fb,Oceania
